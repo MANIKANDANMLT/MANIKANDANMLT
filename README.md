@@ -10,18 +10,29 @@
 
 - ⚡ Fun fact **Independant artist under the name manikandansrinivasalu**
 
-## creator , author and developer of " USE " - css framework
+# creator , author and developer of " USE " - css framework
 
-<img title="use css" alt="logo of use css framework" src="usecsslogo.png" height="240px" widht="240px">
+<img align="left" width="200" height="200" src="usecsslogo.png" margin="20px">
+
+## why "use-css"?
+  
+<li> <b>simple</b> to integrate </li>
+<li> one class approach </li>
+<li> <b>theme</b> based customization</li>
+<li> <b>UI</b> focused </li>
+<li> <b>lightweight</b> framework </li>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
+<h4>programming: python 3</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <br>
+<h4>web and others</h4>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
