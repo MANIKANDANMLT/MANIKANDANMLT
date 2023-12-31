@@ -12,7 +12,7 @@
 
 ## creator , author and developer of " USE " - css framework
 
-<img title="use css" alt="logo of use css framework" src="usecsslogo.png">
+<img title="use css" alt="logo of use css framework" src="usecsslogo.png" hight="240px" wight="240px">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
