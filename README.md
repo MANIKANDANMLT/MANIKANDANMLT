@@ -23,9 +23,9 @@
 <li> <b>theme</b> based customization</li>
 <li> <b>UI</b> focused </li>
 <li> <b>lightweight</b> framework </li>
+<li> ready to use at your project without the worry of design</li>
 
 ---
-<br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
