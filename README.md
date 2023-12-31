@@ -4,11 +4,15 @@
 <h1 align="center">Hi 👋, I'm Manikandan Srinivasalu</h1>
 <h3 align="center">B.Tech student at GSBT tamilnadu,India. <br>frontend developer,desktop application developer(python)</h3>
 
-- 🔭 I’m currently working on **useit css (a minimalistic css framework for ui development)**
+- 🔭 I’m currently working on **use css (a minimalistic css framework for ui development)**
 
 - 🌱 I’m currently learning **DSA**
 
 - ⚡ Fun fact **Independant artist under the name manikandansrinivasalu**
+
+## creator , author and developer of " USE " - css framework
+
+<img title="use css" alt="logo of use css framework" src="">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
