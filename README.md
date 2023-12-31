@@ -12,10 +12,12 @@
 
 # creator , author and developer of " USE " - css framework
 
-<img align="left" width="200" height="200" src="usecsslogo.png" margin="20px">
+
+
+<img align="left" width="300" height="300" src="usecsslogo.png" margin="20px">
 
 ## why "use-css"?
-  
+
 <li> <b>simple</b> to integrate </li>
 <li> one class approach </li>
 <li> <b>theme</b> based customization</li>
@@ -23,7 +25,8 @@
 <li> <b>lightweight</b> framework </li>
 
 ---
-
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <h4>programming: python 3</h4>
