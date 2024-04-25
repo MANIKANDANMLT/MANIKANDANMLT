@@ -1,7 +1,5 @@
 <h1 align = "center" > W E L C O M E ! </h1>
 
-![MasterHead](https://camo.githubusercontent.com/36b1fbfd281b05444d425a6b501f0e777396c06968bd4ca4b3845e2fbd1727b8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31352f65372f65332f31356537653330303136366339363264336238613232663630623563616339652e676966)
-
 <h1 align="center">Hi 👋, I'm Manikandan Srinivasalu</h1>
 <h3 align="center">B.Tech student at GSBT tamilnadu,India. <br>frontend developer,desktop application developer(python)</h3>
 
